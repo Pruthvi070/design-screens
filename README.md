@@ -20,11 +20,11 @@ This project is a minimal React setup using [Vite](https://vitejs.dev/) for fast
 
 To install dependencies and start the development server:
 
-npm install
-npm run dev 
+1.npm install
+
+2.npm run dev 
 
 
-## Preview 
 
 ## Preview
 
